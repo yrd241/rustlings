@@ -27,4 +27,4 @@ fn main() {
     } else {
         println!("Neither alphabetic nor numeric!");
     }
-
+}
